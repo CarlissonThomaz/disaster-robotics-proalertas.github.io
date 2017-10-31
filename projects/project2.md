@@ -48,8 +48,8 @@ This project combines historical flooding data, digital elevation map, drainage 
 
  - Everton Quadros, master student on Science on Education/PUCRS, advised by Regis Lahm, role: GIS and hydrography analysis.
  - Vagner Macedo Martins, master student on Computer Science/PUCRS, advised by Alexandre Amory, role: application design.
- - Carlisson Thomaz, undergraduate student on Geography/PUCRS, advised by Regis Lahm, role: data analysis.
- - Alice Maura Dias, undergraduate student on Geography/PUCRS, advised by Regis Lahm, role: data analysis.
+ - Guilherme Castilhos, undergraduate student on Geography/PUCRS, advised by Regis Lahm, role: data analysis.
+ - Samuel Campos, undergraduate student on Geography/PUCRS, advised by Regis Lahm, role: data analysis.
  
 
 ## Papers
