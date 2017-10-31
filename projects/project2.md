@@ -56,6 +56,10 @@ This project combines historical flooding data, digital elevation map, drainage 
 
  - title and link. full bibio data is already available at ...
 
+## Thesis
+
+ - Previsão de alagamento urbano baseados em dados de redes sociais. Status: Qualificação Defendida
+
 ## Repositories
 
  - [POA Flooding](https://github.com/disaster-robotics-proalertas/poa-flooding)
